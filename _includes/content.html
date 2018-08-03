@@ -1,0 +1,259 @@
+<section id="content">
+	
+		<div class="pagination">
+			{% for page in site.data.list.pages %}
+				<div class="page-button">{{ page.name }}</div>
+			{% endfor %}
+		</div>
+
+		<div class="list-belt">
+			<!-- PAGE 1 1 - 50 --> <!-- PAGE 1 - 50 --> <!-- PAGE 1 - 50 --> 
+			<!-- PAGE 1 1 - 50 --> <!-- PAGE 1 - 50 --> <!-- PAGE 1 - 50 -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 2 51 - 100  --> <!-- PAGE 51 - 100  --> <!-- PAGE 51 - 100  -->
+			<!-- PAGE 2 51 - 100  --> <!-- PAGE 51 - 100  --> <!-- PAGE 51 - 100  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:50 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 3 101 - 150  --> <!-- PAGE 101 - 150  --> <!-- PAGE 101 - 150  -->
+			<!-- PAGE 3 101 - 150  --> <!-- PAGE 101 - 150  --> <!-- PAGE 101 - 150  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:100 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 4 151 - 200  --> <!-- PAGE 151 - 200  --> <!-- PAGE 151 - 200  -->
+			<!-- PAGE 4 151 - 200  --> <!-- PAGE 151 - 200  --> <!-- PAGE 151 - 200  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:150 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 5 201 - 250  --> <!-- PAGE 201 - 250  --> <!-- PAGE 201 - 250  -->
+			<!-- PAGE 5 201 - 250  --> <!-- PAGE 201 - 250  --> <!-- PAGE 201 - 250  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:200 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 7 251 - 300  --> <!-- PAGE 251 - 300  --> <!-- PAGE 251 - 300  -->
+			<!-- PAGE 7 251 - 300  --> <!-- PAGE 251 - 300  --> <!-- PAGE 251 - 300  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:250 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+
+			<!-- PAGE 7 301 - 350  --> <!-- PAGE 301 - 350  --> <!-- PAGE 301 - 350  -->
+			<!-- PAGE 7 301 - 350  --> <!-- PAGE 301 - 350  --> <!-- PAGE 301 - 350  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:300 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 8 351 - 400  --> <!-- PAGE 351 - 400  --> <!-- PAGE 351 - 400  -->
+			<!-- PAGE 8 351 - 400  --> <!-- PAGE 351 - 400  --> <!-- PAGE 351 - 400  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:350 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 9 401 - 450  --> <!-- PAGE 401 - 450  --> <!-- PAGE 401 - 450  -->
+			<!-- PAGE 9 401 - 450  --> <!-- PAGE 401 - 450  --> <!-- PAGE 401 - 450  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:400 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 10 451 - 500  --> <!-- PAGE 451 - 500  --> <!-- PAGE 451 - 500  -->
+			<!-- PAGE 10 451 - 500  --> <!-- PAGE 451 - 500  --> <!-- PAGE 451 - 500  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:450 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 11 501 - 550  --> <!-- PAGE 501 - 550  --> <!-- PAGE 501 - 550  -->
+			<!-- PAGE 11 501 - 550  --> <!-- PAGE 501 - 550  --> <!-- PAGE 501 - 550  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:500 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+			<!-- PAGE 12 551 - 600  --> <!-- PAGE 551 - 600  --> <!-- PAGE 551 - 600  -->
+			<!-- PAGE 12 551 - 600  --> <!-- PAGE 551 - 600  --> <!-- PAGE 551 - 600  -->
+
+			<div class="list-container">
+				{% for anime in site.data.list.animes limit:50 offset:550 %}
+					<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+						{{ anime.name }}
+
+						{% if anime.type == "special" %}
+							<img src="assets/img/hot.png">
+							<img src="assets/img/newupdate.png">
+						{% endif %}
+					</div>
+				{% endfor %}
+			</div>
+
+
+			<!-- END  --> <!-- END  --> <!-- END  -->
+		</div>
+
+		<div class="pagination">
+			{% for page in site.data.list.pages %}
+				<div class="page-button">{{ page.name }}</div>
+			{% endfor %}
+		</div>
+	
+</section>
+
+<section id="listall">
+	<div class="list-individual-title">
+		TO WATCH
+	</div>
+
+	{% for anime in site.data.list.animes %}
+		<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+			{{ anime.name }}
+		</div>
+	{% endfor %}
+</section>
+
+<section id="listcomplete">
+	<div class="list-individual-title">
+		COMPLETED
+	</div>
+
+	{% for anime in site.data.list.animes %}
+		{% if anime.status == "complete" %}
+			<div class="list-name {{ anime.val }} {{ anime.type }} {{ anime.status }}">
+				{{ anime.name }}
+			</div>
+		{% endif %}
+	{% endfor %}
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

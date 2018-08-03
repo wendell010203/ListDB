@@ -1,0 +1,585 @@
+#PAGES
+pages:
+- {name: 1}
+- {name: 2}
+- {name: 3}
+- {name: 4}
+- {name: 5}
+- {name: 6}
+- {name: 7}
+- {name: 8}
+- {name: 9}
+- {name: 10}
+- {name: 11}
+- {name: 12}
+- {name: 13}
+- {name: 14}
+- {name: 15}
+- {name: 16}
+- {name: 17}
+- {name: 18}
+- {name: 19}
+- {name: 20}
+- {name: 21}
+
+#LIST NAME
+animes:
+
+  # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1
+  # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1
+
+- {name: "first" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2
+  # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3
+  # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4
+  # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5
+  # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6
+  # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7
+  # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8
+  # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9
+  # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10
+  # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
